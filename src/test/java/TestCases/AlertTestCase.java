@@ -12,5 +12,6 @@ public class AlertTestCase extends BaseClass {
         WebAppFunction webAppFunction = new WebAppFunction(webDriver);
         webAppFunction.alertHandling();
 
+        
     }
 }
